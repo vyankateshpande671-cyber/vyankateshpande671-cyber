@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Vyankatesh Pande 👋
 
-<!--
-**vyankateshpande671-cyber/vyankateshpande671-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps & Cloud Engineer  
+💼 Infrastructure Engineer @ HCLTech (3 years)  
+🎓 BITS Pilani | B.Sc Computer Science  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 About Me
+
+- 🔭 Currently working in **NOC, Job Scheduling & Wintel** at HCLTech
+- 🌱 Learning **SQL, Linux, Python, Git & DevOps**
+- 🎯 Goal: Transition into **DevOps / Cloud Engineering**
+- 💡 I love practical, hands-on learning
+- 📈 Targeting **AWS Cloud Practitioner** certification
+
+---
+
+## 🛠️ Skills & Learning
+
+| Area | Status |
+|------|--------|
+| SQL | 🟡 Learning |
+| Linux | 🟡 Learning |
+| Python | 🟡 Learning |
+| Git & GitHub | 🟢 Started |
+| DevOps | 🔴 Coming Soon |
+| AWS Cloud | 🔴 Coming Soon |
+
+---
+
+## 📊 Current Focus
+
+- ✅ GitHub Portfolio Setup
+- 🔄 SQL Basics → Advanced
+- 🔄 Linux Commands & Shell Scripting
+- 🔄 Python Scripting
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vyankatesh-pande-b22768295)
+- 📧 Open to opportunities!
+
+---
+
+⭐ *"Every expert was once a beginner"* ⭐
